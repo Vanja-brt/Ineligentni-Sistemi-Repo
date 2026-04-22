@@ -63,4 +63,4 @@ Decision Tree Construction
 <img width="640" height="427" alt="image0" src="https://github.com/user-attachments/assets/0354780d-c6f2-43e4-8cad-3048f163812e" />
 
 
-22.04.2026 - поправаме проблемот со API key и правиме backend за да го чува
+22.04.2026 - поправаме проблемот со API key и правиме backend за да го чува (epic fail)
